@@ -1,0 +1,12 @@
+.destaque {
+  background: #e8f5ee;
+  border-top: 1px solid #cfe8da;
+  border-bottom: 1px solid #cfe8da;
+}
+
+.preco-destaque {
+  font-size: 2.6rem;
+  font-weight: 700;
+  line-height: 1.1;
+  color: #198754;
+}
